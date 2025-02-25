@@ -9,7 +9,7 @@
 - [EX01-03](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=A5cjcsk8HR0H&line=2&uniqifier=1)
 - [EX01-04](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=j9kFNvhEviyl&line=22&uniqifier=1)
 - [EX01-05](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=vRkv4bjBJoVd&line=10&uniqifier=1)
-- [EX01-06]()
+- [EX01-06](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=ybh-aa5JVfyw&line=11&uniqifier=1)
 - [EX01-07]()
 
 ## 02 Web Crawler
