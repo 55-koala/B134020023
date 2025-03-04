@@ -14,7 +14,7 @@
 
 ## 02 Web Crawler
 
-- [EX02-01]()
+- [EX02-01](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=V-8Qq5AOPziV&line=23&uniqifier=1)
 - [EX02-02]()
 - [EX02-03]()
 - [EX02-04]()
