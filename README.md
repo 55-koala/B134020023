@@ -19,3 +19,5 @@
 - [EX02-03](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=tv99pFFa_6Ec&line=6&uniqifier=1)
 - [EX02-04](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=F90O6nc_V5ti&line=17&uniqifier=1)
 - [EX02-05](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=4jRQTipkDi5Y&line=8&uniqifier=1)
+- [EX02-06](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=vMnE_uoRDjC0&line=1&uniqifier=1)
+- [EX02-07]()
