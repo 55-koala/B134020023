@@ -25,4 +25,4 @@
 ## 03 Data Analysis
 
 - [EX03-01](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=YFFlw3_YHjsz&line=11&uniqifier=1)
-- [EX03-02]()
+- [EX03-02](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=8wlgWPBHlttv&line=11&uniqifier=1)
