@@ -21,3 +21,8 @@
 - [EX02-05](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=4jRQTipkDi5Y&line=8&uniqifier=1)
 - [EX02-06](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=vMnE_uoRDjC0&line=1&uniqifier=1)
 - [EX02-07](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=XN5v0iGu_kQ1&line=3&uniqifier=1)
+
+## 03 Data Analysis
+
+- [EX03-01](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=V-8Qq5AOPziV&line=23&uniqifier=1)
+- [EX03-02](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=J2AVDClAMhHo&line=55&uniqifier=1)
