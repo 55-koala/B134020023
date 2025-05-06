@@ -27,4 +27,15 @@
 - [EX03-01](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=YFFlw3_YHjsz&line=11&uniqifier=1)
 - [EX03-02](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=8wlgWPBHlttv&line=11&uniqifier=1)
 - [EX03-03](https://colab.research.google.com/drive/1u2mzeAp2sSm2BzHXTP0H0ZnTevf8InlL#scrollTo=BbNuXEkdJvS7&line=4&uniqifier=1)
-- [EX03-04]()
+- [EX03-04](https://colab.research.google.com/drive/1KQZTFwqXtHPS5RUHVpWMK2n_aCf8WpnQ#scrollTo=1E_G5sxUSsVK&line=5&uniqifier=1)
+- [EX03-05](https://colab.research.google.com/drive/1KQZTFwqXtHPS5RUHVpWMK2n_aCf8WpnQ#scrollTo=aTj6bNdgS6mP&line=79&uniqifier=1)
+- [EX03-06](https://colab.research.google.com/drive/1KQZTFwqXtHPS5RUHVpWMK2n_aCf8WpnQ#scrollTo=f4txCI_9TDLr&line=36&uniqifier=1)
+- [EX03-07](https://colab.research.google.com/drive/1KQZTFwqXtHPS5RUHVpWMK2n_aCf8WpnQ#scrollTo=Q7CGOsENTSjt&line=14&uniqifier=1)
+
+## 05 Web API
+
+- [EX05-01](https://colab.research.google.com/drive/1KQZTFwqXtHPS5RUHVpWMK2n_aCf8WpnQ#scrollTo=U3v0yxPATujh&line=63&uniqifier=1)
+- [EX05-02]()
+- [EX05-03]()
+- [EX05-04]()
+- [EX05-05]()
